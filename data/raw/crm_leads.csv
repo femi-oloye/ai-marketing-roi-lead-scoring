@@ -1,0 +1,11 @@
+lead_id,lead_source,campaign_id,industry,company_size,lead_score,converted
+L001,Email,CAMP001,Finance,Medium,70,1
+L002,Google Ads,CAMP002,Tech,Large,60,0
+L003,LinkedIn,CAMP003,Education,Small,75,1
+L004,Facebook,CAMP004,Healthcare,Medium,55,0
+L005,Email,CAMP005,Finance,Small,80,1
+L006,Google Ads,CAMP002,Tech,Large,50,0
+L007,LinkedIn,CAMP003,Finance,Large,65,1
+L008,Facebook,CAMP004,Healthcare,Small,40,0
+L009,Email,CAMP001,Education,Medium,85,1
+L010,Google Ads,CAMP002,Tech,Medium,45,0

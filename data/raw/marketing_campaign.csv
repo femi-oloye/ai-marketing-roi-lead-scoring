@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,spend,impressions,clicks,leads_generated
+CAMP001,New Feature Launch,Email,2024-10-01,2024-10-15,5000,4500,12000,500,130
+CAMP002,Holiday Promo,Google Ads,2024-12-01,2024-12-31,8000,7900,30000,1500,340
+CAMP003,Webinar Series,LinkedIn,2025-01-10,2025-01-20,3000,2800,9000,400,95
+CAMP004,SaaS Product Tour,Facebook,2025-02-01,2025-02-15,4000,3900,15000,700,210
+CAMP005,Referral Drive,Email,2025-03-01,2025-03-10,2500,2400,10000,350,70
